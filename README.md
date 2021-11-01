@@ -34,5 +34,5 @@ Hi! My name is Jonas and I'm a [CS](https://www.uio.no/studier/program/informati
 <img align="left" alt="JSON" width="26px" src="./icons/json.png" />
 <img align="left" alt="Bootstrap" width="26px" src="./icons/bootstrap.png" />
 <img align="left" alt="Tailwind" width="26px" src="./icons/tailwind.png" />
-<img align="left" alt="Linux" width="26px" src="./icons/linux2.jpeg" />
+<img align="left" alt="Linux" width="26px" src="./icons/linux2.png" />
 <img align="middle" alt="Adobe Tools" width="64px" src="./icons/adobe.png" />
