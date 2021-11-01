@@ -9,8 +9,8 @@ Hi! My name is Jonas and I'm a [CS](https://www.uio.no/studier/program/informati
 ---
 
 ### Languages
-<img align="left" alt="Java" width="20px" src="./icons/java3.png" />
-<img align="left" alt="Python" width="26px" src="./icons/python.png" />
+<img align="left" alt="Java" width="31px" src="./icons/java3.png" />
+<img align="left" alt="Python" width="28px" src="./icons/python.png" />
 <img align="left" alt="C#" width="20px" src="./icons/csharp.png" />
 <img align="left" alt="HTML5" width="26px" src="./icons/html.png" />
 <img align="left" alt="JavaScript" width="26px" src="./icons/javascript.png" />
