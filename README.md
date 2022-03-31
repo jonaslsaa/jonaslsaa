@@ -16,7 +16,8 @@ Hi! My name is Jonas and I'm a [CS](https://www.uio.no/studier/program/informati
 <img align="middle" alt="C#" width="20px" src="./icons/csharp.png" />
 <img align="left" alt="HTML5" width="26px" src="./icons/html.png" />
 <img align="left" alt="JavaScript" width="26px" src="./icons/javascript.png" />
-<img align="left" alt="JavaScript" width="26px" src="./icons/perl_icon.png" />
+<img align="middle" alt="Perl" width="26px" src="./icons/perl_icon.png" />
+<img align="left" alt="Kotlin" width="26px" src="./icons/kotlin.png" />
 <br>
 
 ### Frameworks
