@@ -4,7 +4,7 @@
 
 Hi! My name is Jonas and I'm a [CS](https://www.uio.no/studier/program/informatikk-programmering/) student at the University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/).
 
-- 💡  I’m currently learning about android app development📱.
+- 💡  I’m currently learning about C language and OS 💾.
 
 <i>Coding since 2010.</i>
 
