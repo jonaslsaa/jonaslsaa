@@ -4,9 +4,12 @@
 
 Hi! My name is Jonas and I'm a [CS](https://www.uio.no/studier/program/informatikk-programmering/) student at the University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/).
 
+- ⛏  I’m currently working as a Full-Stack Developer at the University in Oslo
 - 💡  I’m currently learning more about Django and web development.
 
 <i>Coding since 2010.</i>
+
+Personal website: [jonaslsa.com](https://jonaslsa.com/)
 
 ---
 
