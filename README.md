@@ -2,10 +2,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-silva-b1a628ba/)
 
-Hi! My name is Jonas and I'm a [CS](https://www.uio.no/studier/program/informatikk-programmering/) student at the University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/).
+Hi! My name is Jonas and I'm a [CS](https://www.uio.no/studier/program/informatikk-programmering/) Master's student at the University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/).
 
-- ⛏  I’m currently working as a Full-Stack Developer at the University in Oslo
-- 💡  I’m currently learning more about OS development
+- ⛏  I’m currently working as a Full-Stack Developer at the University in Oslo.
+- 💡  I’m currently learning more about heterogeneous multi-core architectures.
+- 📑  I'm currently writing my thesis.
 
 <i>Coding since 2010.</i>
 
