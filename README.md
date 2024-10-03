@@ -5,7 +5,7 @@
 Hi! My name is Jonas and I'm a [CS](https://www.uio.no/studier/program/informatikk-programmering-master/) Master's student at the University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/).
 
 - ⛏  I’m currently working as a Full-Stack Developer at the University in Oslo.
-- 💡  I’m currently learning more about heterogeneous multi-core architectures.
+- 💡  I’m currently learning more about Natural Language Processing.
 - 📑  I'm currently writing my thesis.
 
 <i>Coding since 2010.</i>
