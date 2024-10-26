@@ -6,7 +6,7 @@ Hi! My name is Jonas and I'm a [CS](https://www.uio.no/studier/program/informati
 
 - ⛏  I’m currently working as a Full-Stack Developer at the University in Oslo.
 - 💡  I’m currently learning more about Natural Language Processing.
-- 📑  I'm currently writing my thesis.
+- 📑  I'm currently writing my thesis on *Automated LSP Server Generation Through Codebase Analysis*
 
 <i>Coding since 2010.</i>
 
