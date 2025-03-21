@@ -31,7 +31,7 @@ Personal website: [jonaslsa.com](https://jonaslsa.com/)
 <img align="left" alt="Keras" width="26px" src="./icons/keras.png" />
 <img align="left" alt="Google Cloud" width="26px" src="./icons/gcp.png" />
 <img align="left" alt="Firebase" width="26px" src="./icons/firebase.png" />
-<img align="left" alt="React" width="26px" src="https://svgl.app/library/react.svg" />
+<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
 <img align="left" alt="Svelte" width="26px" src="https://svgl.app/library/svelte.svg" />
 <img align="left" alt="Next.js" width="26px" src="https://svgl.app/library/nextjs_icon_dark.svg" />
 <img align="left" alt="T3 Stack" width="26px" src="https://svgl.app/library/t3-light.svg" />
