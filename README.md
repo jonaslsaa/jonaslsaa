@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-silva-b1a628ba/)
 
-Hi! My name is Jonas and I'm a [CS](https://www.uio.no/studier/program/informatikk-programmering-master/) Master's student at the University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/).
+Hi! I’m Jonas, a Full-Stack Developer with a [CS Master’s](https://www.uio.no/studier/program/informatikk-programmering-master/) from the University of Oslo, with experience in LLM inference & training, distributed computing, and backend development.
 
 - ⛏  I’m currently working as a Full-Stack Developer at the University in Oslo.
 <!--- - 💡  I’m currently learning more about Natural Language Processing.] -->
